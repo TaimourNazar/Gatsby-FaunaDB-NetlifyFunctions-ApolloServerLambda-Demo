@@ -14,9 +14,15 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@apollo/client": "^3.2.5",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "cross-fetch": "^3.0.6",
+    "dotenv": "^8.2.0",
     "gatsby": "^2.24.79",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "typescript": "^4.0.3"
   },
   "devDependencies": {
     "prettier": "2.1.2"
